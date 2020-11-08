@@ -46,6 +46,8 @@ Original nvme SSD Micron was causing MacOS boot crashes. The Micron SSD has been
 
 Windows is installed on this Crucial SSD before the OpenCore installation. OpenCore is installed on a second SSD.
 
+Quick Note: My serial number, MLB, and UUID have been removed from the config.plist. Please use CorpNewt's [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) to create your own (search for "GenSMBIOS" on plist to find the values you have to change).
+
 ---
 
 ## Making the USB installer
