@@ -6,7 +6,7 @@ This is an OpenCore EFI that allows you to install and boot macOS X Catalina on 
 
 <b>macOS Version:</b> Catalina 10.15.7
 
-![alt text](https://github.com/BenDevelopment/XPS15-9500-OpenCore/blob/main/Screenshot.png?raw=true)
+![alt text](https://github.com/BenDevelopment/XPS15-9500-2020-OpenCore/blob/main/Screenshot.png?raw=true)
 
 ---
 
