@@ -28,7 +28,7 @@ This is an OpenCore EFI that allows you to install and boot macOS X Catalina on 
 |SD Card Slot|Working|
 |Screen brightness|Working, hotkeys fn+S/fn+B to decrease/increase brightness|
 |Built-in Wifi|Working|
-|Built-in Bluetooth|Working|
+|Built-in Bluetooth|Working excepted for Bluetooth 4.0 mice|
 |Dell USB3.1 dock|Working|
 |RTL8153 USB Ethernet on Dell dock|Working|
 |Other peripherals on Dell dock|Working|
