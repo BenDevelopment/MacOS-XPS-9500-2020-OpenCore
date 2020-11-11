@@ -63,7 +63,6 @@ Once the USB key created, replace the EFI folder by the one is this repository. 
 
 Disable the following
  - TPM
- - SD Card slot
  - Touchscreen (if enabled, MacOS will consider the touchscreen as trackpad and disable the trackpad)
  - Secure boot
  - Disable CFG Lock (via modGRUBShell)
