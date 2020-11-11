@@ -66,7 +66,6 @@ Disable the following
  - SD Card slot
  - Touchscreen (if enabled, MacOS will consider the touchscreen as trackpad and disable the trackpad)
  - Secure boot
- - Fingerprint reader
  - Disable CFG Lock (via modGRUBShell)
 
 ---
